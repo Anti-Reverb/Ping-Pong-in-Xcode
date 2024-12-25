@@ -1,7 +1,8 @@
 # Ping-Pong-in-Xcode
-Ping Pong Game in Xcode
-2 modes of game play.
-One against the computer, Two against another player.
-In the against computer you can select level.
+
+## 2 modes of game play.
+1. Against the computer.
+   - Here you can also select the level of difficulty.
+3. Against another player.
 
 Haha piece out.
